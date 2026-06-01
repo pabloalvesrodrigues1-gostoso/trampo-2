@@ -1,0 +1,35 @@
+* {
+    background-color: aliceblue;
+    text-align: center;
+}
+nav {
+    background-color: beige;
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1000px;
+    padding-left: 1000px;
+    padding-right: 1000px;
+    ul {
+        list-style: none;
+    }   
+}
+body {
+    height: 100vh;
+}
+.a1 {
+    color: brown;
+}
+.b2 {
+    color: aqua;
+}
+.c3 {
+    color: black;
+}
+.d4 {
+    color: red;
+}
+.e5{
+    color: crimson;
+}
